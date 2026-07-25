@@ -1,0 +1,22 @@
+//
+// Created by Madi on 21/09/2025.
+//
+
+#ifndef INC_232_MULTIPLES__UTILS_HPP
+#define INC_232_MULTIPLES__UTILS_HPP
+#include <iomanip>
+#include <iostream>
+#include <fstream>
+using namespace std;
+
+#define ANCHO_REPORTE 140
+#define ANCHO_TITULO1 37
+#define ANCHO_TITULO2 37
+#define ANCHO_TITULO3 11
+#define ANCHO_TITULO4 69
+#define NRO_COLUMNAS 7
+//EMPRESA DE OPINION DE MERCADO TP S.A.
+//AVENIDA UNIVERSITARIA 1234 San Miguel
+//LIMA - PERU
+//REGISTRO DE PREFERENCIAS DE LOS TELEVIDENTES POR CANAL DE PREFERENCIA
+#endif //INC_232_MULTIPLES__UTILS_HPP

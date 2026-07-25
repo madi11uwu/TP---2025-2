@@ -1,0 +1,28 @@
+TAD-> Tipo Abstracto de Dato (viene en el final)
+No se va a aceptar ptr lista
+//Archivo csv:
+//Dos tipos de lectura:
+//1)
+//Para leer int,bool,double,char
+//input>>edad;
+//input.get() (Para la coma)
+//2)
+//Para leer cadena
+//buffer: cadena estática
+//char buffer[MAX_CARACTERES];
+//input.getline(buffer,MAX_CARACTERES,',');
+//cadena=new char[strlen(buffer)+1];
+//strcpy(cadena,buffer)
+//return cadena;
+//La coma es el delimitador
+//Cuando es solo una estructura se pasa con &
+
+
+
+//Listas ligadas, pilas y colas
+//struct Nodo{
+//  struct Persona dato;
+//  struct Nodo *siguiente;
+//}
+
+//Estructuras autoreferenciadas

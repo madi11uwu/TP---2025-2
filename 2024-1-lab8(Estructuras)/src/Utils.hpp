@@ -1,0 +1,24 @@
+//
+// Created by Madi on 10/11/2025.
+//
+
+#ifndef INC_2024_1_LAB8_ESTRUCTURAS__UTILS_HPP
+#define INC_2024_1_LAB8_ESTRUCTURAS__UTILS_HPP
+#include <iomanip>
+#include <iostream>
+#include <fstream>
+#include <cstring>
+using namespace std;
+#define ANCHO_REPORTE 180
+#define ANCHO_TITULO1 24
+#define ANCHO_TITULO2 46
+#define ANCHO_TITULO3 23
+#define ANCHO_TITULO4 20
+#define MAX_ALUMNOS 100
+#define NRO_COLUMNAS 6
+#define MAX_CARACTERES 40
+//INSTITUCION EDUCATIVA_TP
+//PROMEDIO PONDERADO DE LOS ALUMNOS MATRICULADOS
+//CICLO: 2024-1
+//TODAS LAS FACULTADES
+#endif //INC_2024_1_LAB8_ESTRUCTURAS__UTILS_HPP

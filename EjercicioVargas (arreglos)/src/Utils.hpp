@@ -1,0 +1,21 @@
+//
+// Created by Madi on 27/09/2025.
+//
+
+#ifndef EJERCICIOVARGAS__ARREGLOS__UTILS_HPP
+#define EJERCICIOVARGAS__ARREGLOS__UTILS_HPP
+#include <iomanip>
+#include <iostream>
+#include <fstream>
+using namespace std;
+#define ANCHO_REPORTE 180
+#define ANCHO_TITULO1 21
+#define ANCHO_TITULO2 31
+#define ANCHO_TITULO3 36
+//EMPRESA DE SALUD S.A.
+//REGISTRO DE INGRESOS POR MEDICO
+//REGISTRO DE INGRESOS POR MEDICAMENTO
+#define MAX_CITAS 300
+#define MAX_MEDICOS 50
+#define MAX_MEDICINAS 230
+#endif //EJERCICIOVARGAS__ARREGLOS__UTILS_HPP

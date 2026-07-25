@@ -1,0 +1,8 @@
+//
+// Created by Madi on 3/11/2025.
+//
+
+#ifndef P2_EX1_STRING_FUNCIONES_HPP
+#define P2_EX1_STRING_FUNCIONES_HPP
+
+#endif //P2_EX1_STRING_FUNCIONES_HPP
